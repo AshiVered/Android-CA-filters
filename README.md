@@ -1,3 +1,6 @@
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
+
+
 # Android-CA-fliters
 Magisk module that Adds internet filters CA certificates as system
 Certificates.
